@@ -1,0 +1,2 @@
+[2026-02-01T18:30:00Z] LLM_ACTION
+Initialized agent command and decision logging. From this point forward, all EXEC commands and major LLM actions will be logged here.
