@@ -1,2 +1,5 @@
-[2026-02-01T18:30:00Z] LLM_ACTION
-Initialized agent command and decision logging. From this point forward, all EXEC commands and major LLM actions will be logged here.
+[2026-02-01T18:33:30Z] LLM_ACTION
+Token usage logging enabled. From this point forward, each check-in will append current session token usage (input/output/total) to this log.
+
+[2026-02-01T18:33:30Z] TOKEN_USAGE
+model=openai/gpt-5.2-chat-latest input_tokens=302 output_tokens=280 total_tokens=582
